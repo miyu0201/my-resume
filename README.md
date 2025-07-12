@@ -1,8 +1,8 @@
 # Minghui Yu
 
-**Frontend Developer | UI/UX Designer**
+**Frontend Developer**
+
 📍 Stockholm, Sweden
-📧 [y.minghui@yahoo.com](mailto:y.minghui@yahoo.com)
 🌐 [Personal Website](https://personalymh.netlify.app)
 🌐 [GitHub](https://github.com/miyu0201)
 
